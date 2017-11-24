@@ -1,0 +1,10 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is 1ACC-EE6B
+
+ Directory of C:\Users\Adithya\Desktop\Git_myproj
+
+11/24/2017  05:16 PM    <DIR>          .
+11/24/2017  05:16 PM    <DIR>          ..
+11/24/2017  05:16 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   8,126,943,232 bytes free
